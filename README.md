@@ -3,7 +3,7 @@
 
 # Payload CMS ESLint Config
 
-An ESLint Config for Payload CMS projects.
+An [ESLint](https://github.com/eslint/eslint) config for [Payload](https://github.com/payloadcms/payload) projects.
 
 ### Installation
 
@@ -52,4 +52,4 @@ $ open http://localhost:3000
 
 ## License
 
-[MIT](https://github.com/payloadcms/eslint-config/blob/master/LICENSE) Copyright (c) Payload CMS
+[MIT](https://github.com/payloadcms/eslint-config/blob/master/LICENSE) Copyright (c) Payload

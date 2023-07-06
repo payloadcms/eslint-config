@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "main": "src/index.js",
   "repository": "git@github.com:payloadcms/eslint-config.git",
-  "description": "The official ESLint config for Payload CMS.",
+  "description": "The official Payload ESLint config",
   "author": "dev@payloadcms.com",
   "license": "MIT",
   "keywords": [
