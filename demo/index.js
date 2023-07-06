@@ -1,6 +1,6 @@
 // 'something' is assigned a value but never used
 // 'something' is never reassigned. Use 'const' instead
-const something = "";
+let something = "";
 
 // Identifier 'something_else' is not in camel case
 // 'something_else' is assigned a value but never used
@@ -23,7 +23,7 @@ const {
   prop_2,
   // 'prop3' is assigned a value but never used
   // Missing trailing comma
-  prop_3: prop3,
+  prop_3: prop3
 } = someProps;
 
 const inlineObject = { inlineProp1: "", inlineProp2: "", inlineProp3: "" };
